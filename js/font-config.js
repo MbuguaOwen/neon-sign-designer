@@ -138,5 +138,115 @@ const NEON_FONTS = [
     tags: ['fashion', 'luxury', 'retail', 'boutique', 'hotel'],
     ledNotes: 'Clean geometric shapes make routing straightforward',
     stripFactor: 1.9
+  },
+  {
+    id: 'yellowtail',
+    name: 'Yellowtail',
+    family: 'Yellowtail',
+    weight: 400,
+    category: 'Retro Script',
+    description: 'The quintessential neon script — classic Americana retro',
+    tags: ['bar', 'retro', 'diner', 'americana', 'vintage'],
+    ledNotes: 'Excellent — flowing curves suit LED strips perfectly',
+    stripFactor: 1.6
+  },
+  {
+    id: 'allura',
+    name: 'Allura',
+    family: 'Allura',
+    weight: 400,
+    category: 'Calligraphic Script',
+    description: 'Refined calligraphy — weddings, luxury venues, high-end retail',
+    tags: ['wedding', 'luxury', 'elegant', 'boutique', 'hotel'],
+    ledNotes: 'Beautiful flow — use thin LED rope for the fine hairline strokes',
+    stripFactor: 1.8
+  },
+  {
+    id: 'mr-dafoe',
+    name: 'Mr Dafoe',
+    family: 'Mr Dafoe',
+    weight: 400,
+    category: 'Signature Script',
+    description: 'Handwritten signature feel — authentic and personal',
+    tags: ['bar', 'brunch', 'creative', 'personal', 'casual'],
+    ledNotes: 'Connected letterforms reduce the number of LED splice points',
+    stripFactor: 1.7
+  },
+  {
+    id: 'paytone-one',
+    name: 'Paytone One',
+    family: 'Paytone One',
+    weight: 400,
+    category: 'Bold Rounded',
+    description: 'Chunky rounded bold — fun, energetic, high impact',
+    tags: ['entertainment', 'sports', 'food', 'retail', 'kids'],
+    ledNotes: 'Thick strokes ideal for chunky LED rope lights',
+    stripFactor: 2.0
+  },
+  {
+    id: 'russo-one',
+    name: 'Russo One',
+    family: 'Russo One',
+    weight: 400,
+    category: 'Bold Display',
+    description: 'Strong geometric bold — sports, tech, and industrial brands',
+    tags: ['sports', 'gym', 'tech', 'gaming', 'industrial'],
+    ledNotes: 'Clean strokes mean very efficient, low-waste LED routing',
+    stripFactor: 2.1
+  },
+  {
+    id: 'orbitron',
+    name: 'Orbitron',
+    family: 'Orbitron',
+    weight: 700,
+    category: 'Futuristic Display',
+    description: 'Sci-fi geometric — tech showrooms, esports, and futuristic brands',
+    tags: ['tech', 'gaming', 'sci-fi', 'esports', 'modern'],
+    ledNotes: 'Angular strokes suit rigid LED channel letters well',
+    stripFactor: 2.3
+  },
+  {
+    id: 'black-ops-one',
+    name: 'Black Ops One',
+    family: 'Black Ops One',
+    weight: 400,
+    category: 'Military Display',
+    description: 'Bold military stencil — strong, commanding, no-nonsense',
+    tags: ['gym', 'military', 'sports', 'industrial', 'gaming'],
+    ledNotes: 'Heavy strokes suit high-power LED strips — minimal bends needed',
+    stripFactor: 2.2
+  },
+  {
+    id: 'press-start-2p',
+    name: 'Press Start 2P',
+    family: 'Press Start 2P',
+    weight: 400,
+    category: 'Pixel / Retro Gaming',
+    description: '8-bit pixel style — arcades, gaming bars, retro venues',
+    tags: ['gaming', 'arcade', 'retro', 'bar', 'entertainment'],
+    ledNotes: 'Blocky pixel strokes work as individual LED segments — very distinctive',
+    stripFactor: 2.5
+  },
+  {
+    id: 'lilita-one',
+    name: 'Lilita One',
+    family: 'Lilita One',
+    weight: 400,
+    category: 'Playful Bold',
+    description: 'Punchy rounded display — vibrant, youthful, eye-catching',
+    tags: ['kids', 'food', 'fun', 'retail', 'café'],
+    ledNotes: 'Bold rounded letters are easy to route and very readable at distance',
+    stripFactor: 1.9
+  },
+  {
+    id: 'courgette',
+    name: 'Courgette',
+    family: 'Courgette',
+    weight: 400,
+    category: 'Friendly Script',
+    description: 'Warm flowing script — cafés, bakeries, and casual dining',
+    tags: ['café', 'bakery', 'restaurant', 'brunch', 'casual'],
+    ledNotes: 'Medium weight curves suit standard LED strip widths well',
+    stripFactor: 1.65
   }
 ];
